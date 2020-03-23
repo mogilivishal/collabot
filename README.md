@@ -10,23 +10,23 @@ Have this project for Flipr Hackathon Hiring Program 4.0
 3) Forget Password
  Create Account Page (Sign Up Page)
  
- Login Page
+ ->Login Page
 
  After Login Main Home Page
 
 
-Board System:
+-> Board System:
 In a board you can create multiple lists and in a list you can add multiple cards
 
-Create a board
+->Create a board
 
-Under the board
+  Under the board
 
- Create a list
+ ->Create a list
    
-Under the list
+  Under the list
 
- Create Cards
+ ->Create Cards
  
  Also checkout the Live Demo at https://collabot.000webhostapp.com/
  
