@@ -21,14 +21,18 @@ In a board you can create multiple lists and in a list you can add multiple card
 Create a board
 
 Under the board
-   Create a list
+
+ Create a list
    
 Under the list
+
  Create Cards
  
  Also checkout the Live Demo at https://collabot.000webhostapp.com/
  
  Login Credentials:
+ 
  Username: Goud
+ 
  Password: vishal
  
