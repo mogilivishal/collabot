@@ -36,6 +36,9 @@ In a board you can create multiple lists and in a list you can add multiple card
  
  Password: vishal
  
- ![](Test/Collabot%20Demo.mp4)
+### Demo of the Collabot Application:
+
+1[](Demo/Collabot-Demo.gif)
+
  
  
